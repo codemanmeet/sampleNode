@@ -1,0 +1,9 @@
+{
+  "name": "sampleNode",
+  "version": "1.0.0",
+  "description": "A sample Node project that responds with an ACK to a ping",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "private": true
+}
