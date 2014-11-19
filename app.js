@@ -15,7 +15,6 @@ function pingCreation(request, result, next) {
   else {
     result.send({ "handshake":"notack" });
   }
-  
   return next();
 }
 
